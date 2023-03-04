@@ -4,7 +4,6 @@ import com.example.springsecurity.model.Developer;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 @RestController
